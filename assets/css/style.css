@@ -1,0 +1,43 @@
+body{
+	background-color: #ccc;
+}
+
+p{
+	font-size: 16pt;
+}
+
+.img-rounded {
+	width: 15%;
+	box-shadow: 1px 1px 3px rgba(0, 0, 0, 0.5);
+}
+
+.col-md-10{
+	background-color: #ffffff;
+}
+
+.rodape{
+	background-color: #ccc;
+	padding-top: 1%;
+	padding-bottom: 1%;
+}
+
+.rodape p{
+	font-size: 12pt;
+}
+
+.video1{
+	margin: 0 auto 0 auto;
+	padding: 0 2% 0 2%;
+}
+
+.video2{
+	margin: 0 auto 0 auto;
+	padding: 0 2% 0 2%;
+}
+.v1{
+		padding: 1% 0 1% 0;
+}
+
+.v2{
+	padding: 1% 0 3% 0;
+}
